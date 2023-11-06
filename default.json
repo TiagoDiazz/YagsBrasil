@@ -16,7 +16,7 @@
       {
         "tab1": {
           "layout": 1,
-          "buttontext": "<TextStyle.Violet>Bem Vindos</>",
+          "buttontext": "<TextStyle.Violet>Bem Vindo</>",
           "title1": "Bem Vindo ao Servidor!",
           "text1": "Regras de bom senso, não seja aquele que estraga a diversão dos outros.\n\nEste é um servidor PvE então tenha isso em mente ao se divertir pela ilha.\n\n",
           "imageurl": "https://imgur.com/a/7O7vYas"
@@ -26,8 +26,8 @@
         "tab2": {
           "layout": 1,
           "buttontext": "<TextStyle.Red>Avisos</>",
-          "title1": "Avisos Importantes estão aqui!",
-          "text1": "Breve\n\n",
+          "title1": "Avisos Importantes!",
+          "text1": "Wipe dos dinos automáticamente as 00h e ao 12h\n\n",
           "imageurl": "https://imgur.com/a/7O7vYas"
         }
       }
